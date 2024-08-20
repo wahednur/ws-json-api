@@ -7,7 +7,7 @@
     "professions": "Software Developer",
     "email": "wahednur@example.com",
     "mobile": "+1-555-123-4567",
-    "photo": "img/wahednur.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/wahednur.jpg",
     "age": 30,
     "gender": "Male",
     "bio": "John is a passionate software developer with over 8 years of experience in web development."
@@ -20,7 +20,7 @@
     "professions": "Data Scientist",
     "email": "sadika@example.com",
     "mobile": "+1-555-234-5678",
-    "photo": "img/sadika.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/sadika.jpg",
     "age": 28,
     "gender": "Female",
     "bio": "Jane is a data scientist who loves turning data into actionable insights."
@@ -33,7 +33,7 @@
     "professions": "Graphic Designer",
     "email": "sraboni@example.com",
     "mobile": "+1-555-345-6789",
-    "photo": "img/sraboni.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/sraboni.jpg",
     "age": 25,
     "gender": "Female",
     "bio": "Alice is a creative graphic designer with a keen eye for detail and aesthetics."
@@ -46,7 +46,7 @@
     "professions": "Marketing Specialist",
     "email": "emilydavis@example.com",
     "mobile": "+1-555-567-8901",
-    "photo": "img/emilydavis.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/emilydavis.jpg",
     "age": 27,
     "gender": "Female",
     "bio": "Emily is a dynamic marketing specialist with a focus on digital marketing and brand development."
@@ -59,7 +59,7 @@
     "professions": "Product Manager",
     "email": "michaelbrown@example.com",
     "mobile": "+1-555-456-7890",
-    "photo": "img/michaelbrown.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/michaelbrown.jpg",
     "age": 35,
     "gender": "Male",
     "bio": "Michael is an experienced product manager with a strong background in technology and business strategy."
@@ -72,7 +72,7 @@
     "professions": "Marketing Specialist",
     "email": "emilydavis@example.com",
     "mobile": "+1-555-567-8901",
-    "photo": "img/emilydavis.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/emilydavis.jpg",
     "age": 27,
     "gender": "Female",
     "bio": "Emily is a dynamic marketing specialist with a focus on digital marketing and brand development."
@@ -85,7 +85,7 @@
     "professions": "Network Engineer",
     "email": "davidwilson@example.com",
     "mobile": "+1-555-678-9012",
-    "photo": "img/davidwilson.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/davidwilson.jpg",
     "age": 32,
     "gender": "Male",
     "bio": "David is a network engineer with extensive experience in network design and security."
@@ -98,7 +98,7 @@
     "professions": "UX/UI Designer",
     "email": "sophialee@example.com",
     "mobile": "+1-555-789-0123",
-    "photo": "img/sophialee.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/sophialee.jpg",
     "age": 29,
     "gender": "Female",
     "bio": "Sophia is a UX/UI designer dedicated to creating intuitive and user-friendly designs."
@@ -111,7 +111,7 @@
     "professions": "DevOps Engineer",
     "email": "jamesmartinez@example.com",
     "mobile": "+1-555-890-1234",
-    "photo": "img/jamesmartinez.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/jamesmartinez.jpg",
     "age": 33,
     "gender": "Male",
     "bio": "James is a DevOps engineer with a passion for automation and infrastructure as code."
@@ -124,7 +124,7 @@
     "professions": "HR Manager",
     "email": "oliviaanderson@example.com",
     "mobile": "+1-555-901-2345",
-    "photo": "img/oliviaanderson.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/oliviaanderson.jpg",
     "age": 31,
     "gender": "Female",
     "bio": "Olivia is an HR manager with a strong focus on employee engagement and company culture."
@@ -137,7 +137,7 @@
     "professions": "Sales Executive",
     "email": "robertthomas@example.com",
     "mobile": "+1-555-012-3456",
-    "photo": "img/robertthomas.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/robertthomas.jpg",
     "age": 34,
     "gender": "Male",
     "bio": "Robert is a sales executive with a proven track record in building and maintaining client relationships."
@@ -150,7 +150,7 @@
     "professions": "Cybersecurity Analyst",
     "email": "liamwalker@example.com",
     "mobile": "+1-555-123-4567",
-    "photo": "img/liamwalker.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/liamwalker.jpg",
     "age": 30,
     "gender": "Male",
     "bio": "Liam is a cybersecurity analyst dedicated to protecting sensitive data from cyber threats."
@@ -163,7 +163,7 @@
     "professions": "Business Analyst",
     "email": "charlotteclark@example.com",
     "mobile": "+1-555-234-5678",
-    "photo": "img/charlotteclark.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/charlotteclark.jpg",
     "age": 28,
     "gender": "Female",
     "bio": "Charlotte is a business analyst who excels at identifying opportunities for business improvement."
@@ -176,7 +176,7 @@
     "professions": "Mobile App Developer",
     "email": "williamrodriguez@example.com",
     "mobile": "+1-555-345-6789",
-    "photo": "img/williamrodriguez.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/williamrodriguez.jpg",
     "age": 27,
     "gender": "Male",
     "bio": "William is a mobile app developer with a passion for creating innovative mobile applications."
@@ -189,7 +189,7 @@
     "professions": "Project Manager",
     "email": "ameliaperez@example.com",
     "mobile": "+1-555-456-7890",
-    "photo": "img/ameliaperez.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/ameliaperez.jpg",
     "age": 33,
     "gender": "Female",
     "bio": "Amelia is a project manager with extensive experience in leading cross-functional teams."
@@ -202,7 +202,7 @@
     "professions": "Cloud Architect",
     "email": "benjaminturner@example.com",
     "mobile": "+1-555-567-8901",
-    "photo": "img/benjaminturner.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/benjaminturner.jpg",
     "age": 35,
     "gender": "Male",
     "bio": "Benjamin is a cloud architect with expertise in designing and implementing cloud solutions."
@@ -215,7 +215,7 @@
     "professions": "Content Writer",
     "email": "isabellawright@example.com",
     "mobile": "+1-555-678-9012",
-    "photo": "img/isabellawright.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/isabellawright.jpg",
     "age": 26,
     "gender": "Female",
     "bio": "Isabella is a content writer who enjoys creating engaging and informative content."
@@ -228,7 +228,7 @@
     "professions": "System Administrator",
     "email": "lucasgreen@example.com",
     "mobile": "+1-555-789-0123",
-    "photo": "img/lucasgreen.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/lucasgreen.jpg",
     "age": 31,
     "gender": "Male",
     "bio": "Lucas is a system administrator with a strong background in maintaining and optimizing IT systems."
@@ -241,7 +241,7 @@
     "professions": "SEO Specialist",
     "email": "miahall@example.com",
     "mobile": "+1-555-890-1234",
-    "photo": "img/miahall.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/miahall.jpg",
     "age": 29,
     "gender": "Female",
     "bio": "Mia is an SEO specialist who helps businesses improve their online visibility and rankings."
@@ -254,7 +254,7 @@
     "professions": "Technical Writer",
     "email": "henrylewis@example.com",
     "mobile": "+1-555-901-2345",
-    "photo": "img/henrylewis.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/henrylewis.jpg",
     "age": 34,
     "gender": "Male",
     "bio": "Henry is a technical writer who excels at explaining complex technical concepts in simple terms."
@@ -267,7 +267,7 @@
     "professions": "Operations Manager",
     "email": "graceyoung@example.com",
     "mobile": "+1-555-012-3456",
-    "photo": "img/graceyoung.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/graceyoung.jpg",
     "age": 32,
     "gender": "Female",
     "bio": "Grace is an operations manager with a focus on optimizing business processes for efficiency."
@@ -280,7 +280,7 @@
     "professions": "Financial Analyst",
     "email": "aidenallen@example.com",
     "mobile": "+1-555-123-4567",
-    "photo": "img/aidenallen.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/aidenallen.jpg",
     "age": 30,
     "gender": "Male",
     "bio": "Aiden is a financial analyst who specializes in data-driven financial planning and analysis."
@@ -293,7 +293,7 @@
     "professions": "Social Media Manager",
     "email": "ellaking@example.com",
     "mobile": "+1-555-234-5678",
-    "photo": "img/ellaking.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/ellaking.jpg",
     "age": 28,
     "gender": "Female",
     "bio": "Ella is a social media manager with a talent for creating engaging social media campaigns."
@@ -306,7 +306,7 @@
     "professions": "IT Consultant",
     "email": "sebastianscott@example.com",
     "mobile": "+1-555-345-6789",
-    "photo": "img/sebastianscott.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/sebastianscott.jpg",
     "age": 36,
     "gender": "Male",
     "bio": "Sebastian is an IT consultant with extensive experience in technology strategy and implementation."
@@ -319,7 +319,7 @@
     "professions": "Accountant",
     "email": "chloehill@example.com",
     "mobile": "+1-555-456-7890",
-    "photo": "img/chloehill.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/chloehill.jpg",
     "age": 27,
     "gender": "Female",
     "bio": "Chloe is an accountant with a strong background in financial reporting and analysis."
@@ -332,7 +332,7 @@
     "professions": "Web Developer",
     "email": "masonadams@example.com",
     "mobile": "+1-555-567-8901",
-    "photo": "img/masonadams.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/masonadams.jpg",
     "age": 29,
     "gender": "Male",
     "bio": "Mason is a web developer with expertise in front-end and back-end web development."
@@ -345,7 +345,7 @@
     "professions": "Digital Marketing Specialist",
     "email": "harpernelson@example.com",
     "mobile": "+1-555-678-9012",
-    "photo": "img/harpernelson.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/harpernelson.jpg",
     "age": 28,
     "gender": "Female",
     "bio": "Harper is a digital marketing specialist with a focus on performance marketing and analytics."
@@ -358,7 +358,7 @@
     "professions": "Software Engineer",
     "email": "ethanwright@example.com",
     "mobile": "+1-555-789-0123",
-    "photo": "img/ethanwright.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/ethanwright.jpg",
     "age": 31,
     "gender": "Male",
     "bio": "Ethan is a software engineer with a passion for solving complex technical problems."
@@ -371,7 +371,7 @@
     "professions": "Graphic Designer",
     "email": "averycampbell@example.com",
     "mobile": "+1-555-890-1234",
-    "photo": "img/averycampbell.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/averycampbell.jpg",
     "age": 26,
     "gender": "Female",
     "bio": "Avery is a graphic designer who enjoys creating visually compelling designs."
@@ -384,7 +384,7 @@
     "professions": "Product Designer",
     "email": "lilycooper@example.com",
     "mobile": "+1-555-901-2345",
-    "photo": "img/lilycooper.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/lilycooper.jpg",
     "age": 30,
     "gender": "Female",
     "bio": "Lily is a product designer with a focus on user-centered design and innovation."
@@ -397,7 +397,7 @@
     "professions": "Data Analyst",
     "email": "jacksongedwards@example.com",
     "mobile": "+1-555-012-3456",
-    "photo": "img/jacksongedwards.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/jacksongedwards.jpg",
     "age": 28,
     "gender": "Male",
     "bio": "Jackson is a data analyst who specializes in data visualization and reporting."
@@ -410,7 +410,7 @@
     "professions": "Backend Developer",
     "email": "sofiabrooks@example.com",
     "mobile": "+1-555-123-4567",
-    "photo": "img/sofiabrooks.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/sofiabrooks.jpg",
     "age": 32,
     "gender": "Female",
     "bio": "Sofia is a backend developer with expertise in server-side technologies and databases."
@@ -423,7 +423,7 @@
     "professions": "UX Researcher",
     "email": "landonparker@example.com",
     "mobile": "+1-555-234-5678",
-    "photo": "img/landonparker.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/landonparker.jpg",
     "age": 33,
     "gender": "Male",
     "bio": "Landon is a UX researcher dedicated to understanding user needs and behaviors."
@@ -436,7 +436,7 @@
     "professions": "E-commerce Manager",
     "email": "madisonbarnes@example.com",
     "mobile": "+1-555-345-6789",
-    "photo": "img/madisonbarnes.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/madisonbarnes.jpg",
     "age": 31,
     "gender": "Female",
     "bio": "Madison is an e-commerce manager with a focus on optimizing online sales and customer experience."
@@ -449,7 +449,7 @@
     "professions": "Front-end Developer",
     "email": "owenmitchell@example.com",
     "mobile": "+1-555-456-7890",
-    "photo": "img/owenmitchell.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/owenmitchell.jpg",
     "age": 29,
     "gender": "Male",
     "bio": "Owen is a front-end developer with a passion for creating responsive and interactive web interfaces."
@@ -462,7 +462,7 @@
     "professions": "Business Development Manager",
     "email": "scarlettroberts@example.com",
     "mobile": "+1-555-567-8901",
-    "photo": "img/scarlettroberts.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/scarlettroberts.jpg",
     "age": 34,
     "gender": "Female",
     "bio": "Scarlett is a business development manager with a talent for identifying new business opportunities."
@@ -475,7 +475,7 @@
     "professions": "Systems Analyst",
     "email": "elijahperez@example.com",
     "mobile": "+1-555-678-9012",
-    "photo": "img/elijahperez.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/elijahperez.jpg",
     "age": 31,
     "gender": "Male",
     "bio": "Elijah is a systems analyst with expertise in analyzing and improving IT systems."
@@ -488,7 +488,7 @@
     "professions": "Product Owner",
     "email": "victoriacarter@example.com",
     "mobile": "+1-555-789-0123",
-    "photo": "img/victoriacarter.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/victoriacarter.jpg",
     "age": 28,
     "gender": "Female",
     "bio": "Victoria is a product owner with a focus on agile product development and customer satisfaction."
@@ -501,7 +501,7 @@
     "professions": "Quality Assurance Engineer",
     "email": "matthewphillips@example.com",
     "mobile": "+1-555-890-1234",
-    "photo": "img/matthewphillips.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/matthewphillips.jpg",
     "age": 30,
     "gender": "Male",
     "bio": "Matthew is a quality assurance engineer dedicated to ensuring product quality and reliability."
@@ -514,7 +514,7 @@
     "professions": "HR Specialist",
     "email": "zoeevans@example.com",
     "mobile": "+1-555-901-2345",
-    "photo": "img/zoeevans.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/zoeevans.jpg",
     "age": 27,
     "gender": "Female",
     "bio": "Zoe is an HR specialist with a focus on talent acquisition and employee relations."
@@ -527,7 +527,7 @@
     "professions": "Database Administrator",
     "email": "danielwhite@example.com",
     "mobile": "+1-555-012-3456",
-    "photo": "img/danielwhite.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/danielwhite.jpg",
     "age": 32,
     "gender": "Male",
     "bio": "Daniel is a database administrator with expertise in database management and optimization."
@@ -540,7 +540,7 @@
     "professions": "Logistics Manager",
     "email": "laylahughes@example.com",
     "mobile": "+1-555-123-4567",
-    "photo": "img/laylahughes.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/laylahughes.jpg",
     "age": 29,
     "gender": "Female",
     "bio": "Layla is a logistics manager who specializes in supply chain management and operations."
@@ -553,7 +553,7 @@
     "professions": "Technical Support Specialist",
     "email": "jacksonmurphy@example.com",
     "mobile": "+1-555-234-5678",
-    "photo": "img/jacksonmurphy.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/jacksonmurphy.jpg",
     "age": 28,
     "gender": "Male",
     "bio": "Jackson is a technical support specialist with a focus on troubleshooting and customer service."
@@ -566,7 +566,7 @@
     "professions": "Legal Assistant",
     "email": "evelynramirez@example.com",
     "mobile": "+1-555-345-6789",
-    "photo": "img/evelynramirez.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/evelynramirez.jpg",
     "age": 26,
     "gender": "Female",
     "bio": "Evelyn is a legal assistant with experience in legal research and document preparation."
@@ -579,7 +579,7 @@
     "professions": "Architect",
     "email": "samuelcox@example.com",
     "mobile": "+1-555-456-7890",
-    "photo": "img/samuelcox.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/samuelcox.jpg",
     "age": 35,
     "gender": "Male",
     "bio": "Samuel is an architect with a passion for designing innovative and sustainable buildings."
@@ -592,7 +592,7 @@
     "professions": "Event Planner",
     "email": "victoriabell@example.com",
     "mobile": "+1-555-567-8901",
-    "photo": "img/victoriabell.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/victoriabell.jpg",
     "age": 30,
     "gender": "Female",
     "bio": "Victoria is an event planner who excels at organizing memorable and successful events."
@@ -605,7 +605,7 @@
     "professions": "Photographer",
     "email": "leviflores@example.com",
     "mobile": "+1-555-678-9012",
-    "photo": "img/leviflores.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/leviflores.jpg",
     "age": 29,
     "gender": "Male",
     "bio": "Levi is a photographer with a talent for capturing stunning visuals and storytelling through photography."
@@ -618,7 +618,7 @@
     "professions": "PR Manager",
     "email": "elizabethbaker@example.com",
     "mobile": "+1-555-789-0123",
-    "photo": "img/elizabethbaker.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/elizabethbaker.jpg",
     "age": 33,
     "gender": "Female",
     "bio": "Elizabeth is a PR manager who excels at managing public relations and building brand reputation."
@@ -631,7 +631,7 @@
     "professions": "IT Manager",
     "email": "isaacmoore@example.com",
     "mobile": "+1-555-890-1234",
-    "photo": "img/isaacmoore.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/isaacmoore.jpg",
     "age": 34,
     "gender": "Male",
     "bio": "Isaac is an IT manager with a focus on leading technology teams and implementing IT strategies."
@@ -644,7 +644,7 @@
     "professions": "Customer Success Manager",
     "email": "amelianelson@example.com",
     "mobile": "+1-555-901-2345",
-    "photo": "img/amelianelson.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/amelianelson.jpg",
     "age": 32,
     "gender": "Female",
     "bio": "Amelia is a customer success manager with a passion for ensuring customer satisfaction and success."
@@ -657,7 +657,7 @@
     "professions": "Marketing Manager",
     "email": "jamesward@example.com",
     "mobile": "+1-555-012-3456",
-    "photo": "img/jamesward.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/jamesward.jpg",
     "age": 30,
     "gender": "Male",
     "bio": "James is a marketing manager with a talent for creating effective marketing strategies and campaigns."
@@ -670,7 +670,7 @@
     "professions": "Content Writer",
     "email": "isabellawright@example.com",
     "mobile": "+1-555-123-4567",
-    "photo": "img/isabellawright.jpg",
+    "photo": "https://cdn.jsdelivr.net/gh/wahednur/ws-json-api@master/users/img/isabellawright.jpg",
     "age": 26,
     "gender": "Female",
     "bio": "Isabella is a content writer who enjoys creating engaging and informative content."
