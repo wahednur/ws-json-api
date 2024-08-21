@@ -1,0 +1,39 @@
+[
+  {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Electronics",
+        "slug": "electronics",
+        "sub-categories": [
+          {
+            "id": 1,
+            "name": "Home Appliance",
+            "slug": "home-appliance",
+            "products": [
+              {
+                "id": 1,
+                "sku": "ELE-HA-001",
+                "title": "Samsung Smart Refrigerator",
+                "price": 1200,
+                "discount_price": 1100,
+                "rating": 4.5,
+                "image": "https://example.com/images/sam-ele-ha-01.jpg",
+                "gallery_images": [
+                  "https://example.com/images/smart-refrigerator-1.jpg",
+                  "https://example.com/images/smart-refrigerator-2.jpg"
+                ],
+                "description": "A smart refrigerator with a built-in touchscreen and internet connectivity.",
+                "short_description": "Smart fridge with touchscreen.",
+                "variations": ["Color: Silver, Black", "Capacity: 500L, 600L"],
+                "brand": "SmartHome",
+                "tags": ["refrigerator", "smart appliance"],
+                "stocks": 25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
