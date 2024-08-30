@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Contigo Autoseal Water Bottle",
+    "brand": "Contigo",
+    "price": 25,
+    "capacity": "500ml",
+    "color": "Black",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/contigo_autoseal.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hydro Flask Water Bottle",
+    "brand": "Hydro Flask",
+    "price": 35,
+    "capacity": "1000ml",
+    "color": "Blue",
+    "quantity": 150,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/hydro_flask.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Thermos Water Bottle",
+    "brand": "Thermos",
+    "price": 30,
+    "capacity": "750ml",
+    "color": "Red",
+    "quantity": 200,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/thermos_water_bottle.jpg"
+  },
+  {
+    "id": 4,
+    "name": "CamelBak Hydration Pack",
+    "brand": "CamelBak",
+    "price": 40,
+    "capacity": "1500ml",
+    "color": "Green",
+    "quantity": 80,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/camelbak_hydration_pack.jpg"
+  },
+  {
+    "id": 5,
+    "name": "S'well Water Bottle",
+    "brand": "S'well",
+    "price": 20,
+    "capacity": "500ml",
+    "color": "Purple",
+    "quantity": 120,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/swell_water_bottle.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Stylish Water Bottle - Water Bottle",
+    "brand": "Non Brand",
+    "price": 20,
+    "capacity": "500ml",
+    "color": "Silver",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/stylish_water_bottle.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Water Bottle With LED Temperature Display",
+    "brand": "Non Brand",
+    "price": 20.5,
+    "capacity": "1000ml",
+    "color": "Black",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/water_bottle_with_led_temperature_display.jpg"
+  },
+  {
+    "id": 8,
+    "name": "750 ml insulated water bottle",
+    "brand": "The Iconic",
+    "price": 21,
+    "capacity": "500ml",
+    "color": "Black",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/750_ml_insulated_water_bottle.jpg"
+  },
+  {
+    "id": 9,
+    "name": "The Better Home 304 Stainless Steel Water Bottle 1 Litre",
+    "brand": "Brand 4",
+    "price": 21.5,
+    "capacity": "1000ml",
+    "color": "Black",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/the_better_home_304.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Adidas Steel Straw Metal Bottle 600 ML",
+    "brand": "Adidas",
+    "price": 22,
+    "capacity": "600ml",
+    "color": "Black",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/adidas_steel_straw.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Adidas Purple Steel Metal Bottle 1L",
+    "brand": "Adidas",
+    "price": 22.5,
+    "capacity": "1000ml",
+    "color": "Purple",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/adidas_purple_steel.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Adidas Black Steel Metal Bottle 1L",
+    "brand": "Adidas",
+    "price": 23,
+    "capacity": "500ml",
+    "color": "Black",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/adidas_black_steel.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Adidas Steel Metal Bottle 1L Black",
+    "brand": "Adidas",
+    "price": 23.5,
+    "capacity": "1000ml",
+    "color": "Black",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/adidas_steel.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Nike Refuel",
+    "brand": "Nike",
+    "price": 24,
+    "capacity": "500ml",
+    "color": "Red",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/nike_refuel.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Nike HyperFuel 24oz Water Bottle",
+    "brand": "Nike",
+    "price": 24.5,
+    "capacity": "1000ml",
+    "color": "Red",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/nike_hyperfuel.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Nike TR Recharge 2.0",
+    "brand": "Nike",
+    "price": 25,
+    "capacity": "600ml",
+    "color": "White",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/nike_tr_recharge.jpg"
+  },
+  {
+    "id": 17,
+    "name": "PUMA Training Water Bottle 750ml",
+    "brand": "Puma",
+    "price": 25.5,
+    "capacity": "750ml",
+    "color": "Black",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/puma_training.jpg"
+  },
+  {
+    "id": 18,
+    "name": "PUMA Shaker Unisex Training Water Bottle 600 ml",
+    "brand": "Puma",
+    "price": 26,
+    "capacity": "600ml",
+    "color": "Black",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/puma_shaker.jpg"
+  },
+  {
+    "id": 19,
+    "name": "PUMA Sportstyle Unisex Training Water Bottle 600 ml",
+    "brand": "Puma",
+    "price": 26.5,
+    "capacity": "600ml",
+    "color": "Garnet Rose",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/puma_sportstyle.jpg"
+  },
+  {
+    "id": 20,
+    "name": "PUMA Sportstyle Unisex Training Water Bottle 600 ml",
+    "brand": "Puma",
+    "price": 27,
+    "capacity": "500ml",
+    "color": "Electric Purple",
+    "quantity": 100,
+    "image": "https://cdn.jsdelivr.net/gh/wahednur/ws-cdn@master/images/bottles/puma_sportstyle_purple.jpg"
+  }
+]
